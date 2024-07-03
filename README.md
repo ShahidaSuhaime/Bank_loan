@@ -4,6 +4,9 @@ This repository contains code and datasets for analyzing bank loan applications.
 ## Table of content
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
+- [Tools](#tools)
+- [Methodology](#methodology)
+- [Key Insights and Findings](#key-insights-and-findings)
 
 ## Project Overview
 This project involves conducting an extensive examination of bank loan data by utilizing SQL for powerful data querying and manipulation. The analysis is enhanced with advanced visualization tools like Power BI and Excel. Its main aim is to uncover actionable insights related to loan applications, funding, repayments, and borrower demographics. The analysis covers diverse dimensions such as monthly trends, loan terms, state-level analysis and loan purposes, home ownership.
