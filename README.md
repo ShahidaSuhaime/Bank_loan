@@ -12,7 +12,7 @@ This repository contains code and datasets for analyzing bank loan applications.
 This project involves conducting an extensive examination of bank loan data by utilizing SQL for powerful data querying and manipulation. The analysis is enhanced with advanced visualization tools like Power BI and Excel. Its main aim is to uncover actionable insights related to loan applications, funding, repayments, and borrower demographics. The analysis covers diverse dimensions such as monthly trends, loan terms, state-level analysis and loan purposes, home ownership.
 
 ## Data Source
-Loan data: The primary dataset used for this analysis is the “financial_loan.csv”, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
+Loan data: The primary dataset used for this analysis is the “financial_loan.xls”, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
 
 ## Tools
 - Postgresql: Used for database management, querying, and data analysis. SQL queries were crucial in extracting key metrics and insights from the loan dataset.
