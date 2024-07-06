@@ -61,4 +61,6 @@ The analysis results are summarized as follows:
 - Loan Categorization: Segmentation of loans into 'Good' and 'Bad' categories based on repayment status, offering a comprehensive view of the loan portfolio's risk profile and potential credit losses.
 - Detailed Breakdowns by Various Factors: In-depth analysis by loan status, purpose, state, term, and other factors to identify underlying patterns and trends influencing loan performance and customer behaviour.
 
+#### To delve deeper, refer to all the files that have been uploaded.
+
 
